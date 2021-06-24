@@ -1,7 +1,7 @@
 ## Hello there, I'm Leo C Dinendra! 👋
 
-### I am a Geoscientist that really into Computational Geosciences, Machine Learning, Data Analytics, and Visualization!
-- 🔭 I’m currently working on Machine Learning stuff in Oil and Gas Problem also Subsurface Data Management.
+### I am a Geoscientist who really into Computational Geosciences, Machine Learning, Data Analytics, and Visualization!
+- 🔭 I’m currently working on Machine Learning stuff in Oil&Gas Problem and Subsurface Data Management.
 - 🌱 I’m currently learning Deep Learning, Paralell Computing, and Dashboard!
 - 📫 How to reach me: leocd91 @ gmail . com or [LinkedIn](https://www.linkedin.com/in/leo-c-0988727b/)
 
