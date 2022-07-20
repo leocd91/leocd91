@@ -12,8 +12,6 @@
 - [My really really Old Blog about Computational Geophysics](http://redigitize.blogspot.com/)
 
 
-## GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leocd91&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 <!--
 **leocd91/leocd91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
