@@ -1,9 +1,9 @@
 ## Hi there, I'm Leo! 👋
 
-### I am a Geoscientist who really passionate about Computational Geosciences, Machine Learning, Data Analytics, and Visualization!
-- 🔭 I’m currently working on Machine Learning stuff in Oil-Gas Problem and Subsurface Data Management.
-- 🌱 I’m currently learning Deep Neural Networks, Parallel Computing, and a little Viz with Dashboard!
-- 📫 You can reach me at: leocd91 @gmail.com or [LinkedIn](https://www.linkedin.com/in/leo-c-0988727b/)
+### Geoscientist passionate about using computational geosciences, machine learning, and data analytics to solve energy problems and manage subsurface data!
+- 🔭 Currently working on machine learning applications in energy problems and subsurface data management.
+- 🌱 I’m currently learning NLP, Reinforcement Learning, Big Data, Parallel Computing, and a little Viz with Dashboard!
+- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/leo-c-0988727b/)
 
 ## Featured Posts
 - [My Post about ML, Computing, & Stuff in Geoscience on LinkedIn](https://www.linkedin.com/in/leo-c-0988727b/detail/recent-activity/shares/)
